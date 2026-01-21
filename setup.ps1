@@ -12,7 +12,7 @@
 
 
 
-$root = "$env:USERPROFILE\Desktop\SecurityProject"
+$root = "$env:USERPROFILE\Desktop\PowerShell-AdminToolkit"
 
 $folders = @(
     "$root\src",
@@ -37,4 +37,5 @@ foreach ($folder in $folders) {
 }
 
 New-Item -Path "$root\README.md" -ItemType File -Force
+
 
