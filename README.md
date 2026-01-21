@@ -26,8 +26,9 @@ Korrelierbarer Run-ID für jede Ausführung
 
 -Portable Menüoberfläche – Alle Funktionen werden über ein Windows-Formular (WinForms) bedient, ohne dass direkt PowerShell-Fenster sichtbar sind.
 
-📁 Projektstruktur
-PowerShell-AdminToolkit/
+##📁 Projektstruktur
+```
+Security_Report_Project/
 ├─ config/
 │  └─ logging.ps1        # Logging-Funktionen: Rotierende Logs, Run-ID, Levels
 │                        # Logdateien werden unter logs/Logdateien gespeichert
@@ -54,6 +55,7 @@ PowerShell-AdminToolkit/
 │  │  └─ menu.ps1
 │  └─ test/              # Test-Skripte / Beispiele
 └─ README.md             # Projektdokumentation
+```
 🖥️ Installation & Setup
 
 PowerShell ≥ 5.1 empfohlen.
