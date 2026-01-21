@@ -1,6 +1,6 @@
-﻿# Security Report Project
+﻿# PowerShell-AdminToolkit
 
-Projektname:  Security_Report_Project
+Projektname: PowerShell-AdminToolkit
 
 Dieses Projekt enthält mehrere PowerShell-Module, die lokale Systemchecks, Software-Inventar, Benutzerverwaltung und Compliance-Dashboards automatisieren,html seite.
 
@@ -210,3 +210,4 @@ Compliance-Checks
 
 
 Modulaufrufe aus dem Menü
+
